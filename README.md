@@ -1,5 +1,6 @@
 # ラズピコでRust
 ラズピコ で printlnマクロを使う(デバッグ環境用)
+embedded-hal Ver1.0.0 対応版
 
 ## setting.json
 
@@ -12,4 +13,4 @@
 
 詳しくは以下をご覧になってください。
 
-[ラズピコでRust　println!マクロをUARTで実装する](https://moons.link/pico/post-1303/)
+[ラズピコでRust(15)　UARTのprintln!マクロをembedded-hal Ver1.0.0 に実装する](https://moons.link/pico/post-1462/)
